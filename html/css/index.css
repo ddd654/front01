@@ -214,12 +214,31 @@ section .at ul li:nth-child(5){
     width: 10%;
 }
 
-.at0 {
+.at5 {
     display: block;
 }
 
+/* -------------------------------------- */
 
 
+.at5 .wrap {
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.at5 .wrap div {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+
+    text-align: center;
+    line-height: 100px;
+}
 /* --------------------------------------- */
 
 

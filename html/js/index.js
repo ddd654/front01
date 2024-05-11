@@ -68,10 +68,9 @@ $(function () {
                 $(".at0_sit_" +i).html(sitA[i]);
                 $(".at0_rev_" +i).html(revA[i]);
 
-
             }
         }
-
+            
         else if(no == 1){
             
         }
